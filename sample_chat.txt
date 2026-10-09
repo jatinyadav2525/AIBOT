@@ -1,0 +1,25 @@
+07/10/26, 9:12 am - Riya: Good morning everyone!
+07/10/26, 9:14 am - Karan: gm
+07/10/26, 9:30 am - Riya: Prof. Mehta moved the project demo to Monday 12/10 at 10am. Please be ready
+07/10/26, 9:31 am - Meera: lol I thought it was next week
+07/10/26, 11:02 am - Karan: anyone watching the match tonight?
+07/10/26, 11:05 am - Meera: yes!!
+07/10/26, 2:15 pm - Riya: @Aarav can you finish the backend API docs and share before Friday evening? Urgent, the prof wants them in advance
+07/10/26, 2:20 pm - Aarav: sure, on it
+07/10/26, 5:00 pm - Riya: Aarav send me your slides by tomorrow noon please
+07/10/26, 5:30 pm - Karan: this wifi is so slow
+08/10/26, 10:00 am - Karan: we decided to go with React for the frontend, final.
+08/10/26, 10:05 am - Meera: 👍
+08/10/26, 10:40 am - Meera: Aarav have you uploaded the dataset to the drive?
+08/10/26, 1:00 pm - Karan: Lunch?
+08/10/26, 1:02 pm - Meera: canteen at 1:30
+08/10/26, 4:45 pm - Riya: Everyone please submit your individual contribution form by tomorrow 6pm. Mandatory!
+08/10/26, 4:50 pm - Karan: ok will do
+08/10/26, 6:10 pm - Meera: the wifi in lab 3 is dead again
+08/10/26, 6:11 pm - Karan: ugh
+08/10/26, 8:30 pm - Riya: Printing budget is approved, ₹1500. Karan will handle it
+08/10/26, 9:55 pm - Prof. Mehta: Reminder: final report PDF must reach me by 10/10 11:59 pm. No extensions.
+09/10/26, 7:45 am - Meera: @Aarav the dataset link is broken, please fix and confirm
+09/10/26, 8:10 am - Karan: bro look at this 😂
+09/10/26, 8:30 am - Riya: Aarav where are you? Team meeting at 11am today on Meet. Please join, we need to rehearse the demo
+09/10/26, 9:05 am - Meera: Anyone has the logo file?
